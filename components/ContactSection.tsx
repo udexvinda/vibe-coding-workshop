@@ -17,7 +17,7 @@ const ContactSection: React.FC = () => {
           <div className="mt-8 bg-gray-100 p-6 rounded-md border border-dashed border-gray-300 text-center">
             <p className="text-stone-600">An embedded Google Form for registration will be displayed here.</p>
             <a 
-              href="https://forms.gle/ugmaX3tDBoqrHJxy6" 
+              href="https://forms.gle/gPEndkTJa6tZGUuT7" 
               target="_blank"
               rel="noopener noreferrer"
               className="mt-4 inline-block px-6 py-2 bg-stone-900 text-white font-bold rounded-md hover:bg-stone-700 transition-colors duration-300"
