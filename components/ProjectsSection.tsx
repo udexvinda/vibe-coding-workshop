@@ -93,7 +93,7 @@ const ProjectsSection: React.FC = () => {
         <div className="grid lg:grid-cols-2 gap-12">
           <div>
             <h3 className="text-3xl font-montserrat text-center mb-8">
-              <a href="https://lsspro.app" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-[#f7b733] hover:underline group">
+              <a href="https://vibecodingworkshop.app" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-[#f7b733] hover:underline group">
                 LSSPro.app
                 <ExternalLinkIcon />
               </a>
@@ -106,7 +106,7 @@ const ProjectsSection: React.FC = () => {
           </div>
           <div>
             <h3 className="text-3xl font-montserrat text-center mb-8">
-              <a href="https://trizpro.app" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-[#81c784] hover:underline group">
+              <a href="https://vibecodingworkshop.app" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-[#81c784] hover:underline group">
                 TRIZPro.app
                 <ExternalLinkIcon />
               </a>
